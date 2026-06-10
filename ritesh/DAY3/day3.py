@@ -1,5 +1,3 @@
-# Exam Pass or Fail System
-
 student_name = input("Enter Student Name: ")
 marks = int(input("Enter Marks Obtained (out of 100): "))
 
@@ -14,7 +12,6 @@ else:
         print("Result: Pass")
     else:
         print("Result: Fail")
-
     # Grade
     if marks >= 90:
         print("Grade: A+")
