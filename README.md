@@ -6,7 +6,7 @@
 ![JAVA](https://img.shields.io/badge/Language-Java-orange)
 ![Python](https://img.shields.io/badge/Language-Python-blue)
 ![Working](https://img.shields.io/badge/Status-Completed-success)
-![25 May – 25 July 2026](https://img.shields.io/badge/Duration-25%20May%20-%2025%20July%202026-green)
+![25/May2026–25/July/2026](https://img.shields.io/badge/Duration-25%20May%20-%2025%20July%202026-green)
 
 ---
 
@@ -54,7 +54,7 @@ Our mentor helped us by:
 
 # 👨‍💻 Internship Team
 
-## [@rajanmaurya12012008](https://github.com/rajanmaurya12012008)
+### [@rajanmaurya12012008](https://github.com/rajanmaurya12012008)
 
 **AI/ML Developer Intern** *(Period - 25 May 2026 to 24 July 2026)*
 
