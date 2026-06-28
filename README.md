@@ -6,7 +6,6 @@
 ![JAVA](https://img.shields.io/badge/Language-Java-orange)
 ![Python](https://img.shields.io/badge/Language-Python-blue)
 ![Working](https://img.shields.io/badge/Status-Completed-success)
-![25/May2026–25/July/2026](https://img.shields.io/badge/Duration-25%20May%20-%2025%20July%202026-green)
 
 ---
 
@@ -14,7 +13,7 @@
 
 This repository contains the work completed during the **Earny.in Summer Internship 2026**.
 
-Throughout the internship, interns solved GitHub issues, completed daily coding tasks, practiced Java and Python programming, collaborated using Git & GitHub, and improved their software development skills through mentor guidance.
+Throughout the internship, interns solved GitHub issues, completed daily coding tasks, working on projects, practiced Java and Python programming, collaborated using Git & GitHub, and improved their software development skills through mentor guidance.
 
 The repository represents our learning journey, teamwork, and continuous improvement over the internship period.
 
@@ -45,8 +44,10 @@ Special thanks to our mentor for guiding us throughout the internship.
 Our mentor helped us by:
 
 - Assigning daily GitHub Issues
+- Project Flow
 - Reviewing code
 - Guiding project development
+- Tech Industry Knowledge
 - Teaching Git & GitHub workflow
 - Improving coding practices
 
@@ -60,7 +61,7 @@ Our mentor helped us by:
 
 ### [@imomrg](https://github.com/imomrg)
 
-**** *(Period - 25 May 2026 to 24 aug 2026)*
+**Software Developer** *(Period - 25 May 2026 to 24 aug 2026)*
 
 ### [@nyashagupta-24](https://github.com/nyashagupta-24)
 
@@ -72,7 +73,7 @@ Our mentor helped us by:
 
 ### [@sanjanakum552-prog](https://github.com/sanjanakum552-prog)
 
-**** *(25 May 2026 to 24 July 2026)*
+**Software Developer** *(25 May 2026 to 24 July 2026)*
 
 ---
 
@@ -81,12 +82,16 @@ Our mentor helped us by:
 During this internship we worked on:
 
 - Java Programming
+- Swimlane Design
+- Project Management
 - Python Programming
 - HTML & CSS
 - Git & GitHub Workflow
+- Figma
 - TaskFlow Manager Project
 - Issue Based Development
 - Team Collaboration
+- Project Flow
 - Code Reviews
 - Documentation
 - Backend Development
@@ -99,6 +104,9 @@ During this internship we worked on:
 
 - Git
 - GitHub
+- Figma
+- Google Colab
+- Draw.oi for Swimlane Design
 - MySQL
 - VS Code
 
