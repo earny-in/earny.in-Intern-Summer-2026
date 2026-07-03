@@ -9,7 +9,7 @@ public class Pert {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Marks Obtained: ");
+        System.out.print("Marks obtained: ");
         double mark_obt = sc.nextDouble();
 
         System.out.print("Maximum Marks: ");
