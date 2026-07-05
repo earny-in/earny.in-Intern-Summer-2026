@@ -1,15 +1,15 @@
 import java.util.Scanner;
 
-public class Pert {
+public class Percent {
 
     public static double calculate_percentage(double mark_obt, double mark_max) {
         return (mark_obt / mark_max) * 100;
-    }  
+    }
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Marks obtained: ");
+        System.out.print("Marks Obtained: ");
         double mark_obt = sc.nextDouble();
 
         System.out.print("Maximum Marks: ");
