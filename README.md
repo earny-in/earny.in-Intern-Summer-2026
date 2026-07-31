@@ -14,7 +14,7 @@
 
 This repository contains the work completed during the **Earny.in Summer Internship 2026**.
 
-Throughout the internship, interns solved GitHub issues, completed daily coding tasks, practiced Java and Python programming, collaborated using Git & GitHub, and improved their software development skills through mentor guidance.
+Throughout the internship, interns solved GitHub issues, completed daily coding tasks, practiced Java and Python programming languages, collaborated using Git & GitHub, and improved their software development skills through mentor guidance.
 
 The repository represents our learning journey, teamwork, and continuous improvement over the internship period.
 
