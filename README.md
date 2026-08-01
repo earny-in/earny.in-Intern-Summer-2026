@@ -6,7 +6,6 @@
 ![JAVA](https://img.shields.io/badge/Language-Java-orange)
 ![Python](https://img.shields.io/badge/Language-Python-blue)
 ![Working](https://img.shields.io/badge/Status-Completed-success)
-![25 May – 25 July 2026](https://img.shields.io/badge/Duration-25%20May%20-%2025%20July%202026-green)
 
 ---
 
